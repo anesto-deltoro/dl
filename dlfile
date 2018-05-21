@@ -17,3 +17,13 @@
 
 #yd - alias para: youtube-dl --no-progress --quiet --ignore-errors
 #ydl - alias para: youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s'
+
+
+yd https://youtu.be/vSnCeJEka_s
+yd https://youtu.be/a-BOSpxYJ9M
+yd https://youtu.be/2zYxWEZ0gYg
+yd https://youtu.be/cH6bnQzJojo
+yd https://youtu.be/m_c-B_MrxQU
+yd https://youtu.be/837Z_oehhRg
+yd https://youtu.be/m_c-B_MrxQU
+yd https://youtu.be/EccqvcbL2SQ
