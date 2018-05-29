@@ -19,11 +19,15 @@
 #ydl - alias para: youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s'
 
 
-youtube-dl https://youtu.be/vSnCeJEka_s
-youtube-dl https://youtu.be/a-BOSpxYJ9M
-youtube-dl https://youtu.be/2zYxWEZ0gYg
-youtube-dl https://youtu.be/cH6bnQzJojo
-youtube-dl https://youtu.be/m_c-B_MrxQU
-youtube-dl https://youtu.be/837Z_oehhRg
-youtube-dl https://youtu.be/m_c-B_MrxQU
-youtube-dl https://youtu.be/EccqvcbL2SQ
+yd https://youtu.be/bXdcX3fH_5g
+yd https://youtu.be/gF8v51i6Y1c
+yd https://youtu.be/qwYs0J7xp78
+yd https://youtu.be/ryxrWVI3PMA
+yd https://youtu.be/yY2L0CnkiY0
+yd https://youtu.be/eE_Iaxjy05Y
+yd https://youtu.be/CUVOBANHzpo
+yd https://youtu.be/tpspO9K28PM
+yd https://youtu.be/DXFUn90hudk
+yd https://youtu.be/RmEMUwfQoSc
+yd https://youtu.be/l8cR60eXEPo
+yd https://youtu.be/YL0EKxx1Fd0
