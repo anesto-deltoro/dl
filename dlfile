@@ -19,4 +19,10 @@
 #ydl - alias para: youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s'
 
 
-youtube-dl https://youtu.be/bft1CwlNJkk
+youtube-dl https://youtu.be/DN6YqrI8aLk
+youtube-dl https://youtu.be/ev5N7rzcwW8
+youtube-dl https://youtu.be/EWEFPR7uI6c
+youtube-dl https://youtu.be/su1nR4op46I
+youtube-dl https://youtu.be/FM4I8hU5kqk
+youtube-dl https://youtu.be/RlefE2isw9s
+youtube-dl https://youtu.be/xhT6c9dM1Ds
